@@ -1,0 +1,7 @@
+x=[1,2,3]
+def chnage(lst):
+    lst.append(4)
+    lst=[10,20]
+    lst.append(30)
+chnage(x)
+print(x)
